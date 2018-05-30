@@ -20,6 +20,7 @@ int main(){
 	sortArray(arr);
 	string str;
 	cin >> str;
+	//Diferentes opciones del problema
 	if(str == "ABC"){
 		cout << arr[0] << " " << arr[1] << " " << arr[2];
 	}
